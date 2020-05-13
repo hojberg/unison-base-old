@@ -1,3 +1,3 @@
 # unison-base
 
-My work space for working on the unison base library
+Workspace for working on the unison base library
